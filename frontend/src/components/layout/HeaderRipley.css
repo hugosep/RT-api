@@ -1,0 +1,12 @@
+.ui.menu > .grid, .ui.menu > .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: inherit;
+    -ms-flex-align: inherit;
+    align-items: inherit;
+    -webkit-box-orient: inherit;
+    -webkit-box-direction: inherit;
+    -ms-flex-direction: inherit;
+    flex-direction: inherit;
+}

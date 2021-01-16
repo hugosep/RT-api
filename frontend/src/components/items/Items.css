@@ -1,0 +1,8 @@
+.ui.cards {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: -.875em -.5em;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
