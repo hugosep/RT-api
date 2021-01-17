@@ -6,4 +6,10 @@
 * **npm install** in ./frontend
 * **npm run dev** in main folder
 
-## Link of deployment:
+## How to see:
+
+* localhost:3000
+
+## Alternative:
+
+Build with: **npm build**
