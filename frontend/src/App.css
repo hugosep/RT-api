@@ -119,7 +119,7 @@ a:hover{
   color: #e75353;
 }
 
-.span-descuento {
+.span-sale {
   font-size: 24px;
   color: #999;
   font-weight: 900
@@ -128,19 +128,6 @@ a:hover{
 .span-acumulas {
   font-size: 24px;
   color: #999;
-}
-
-.span-discount {
-    text-align: center;
-    background: #e75353;
-    top: 5px;
-    right: 5px;
-    margin: 0;
-    padding: 5px 5px 4px 0;
-    color: #fff;
-    font-size: 14px;
-    min-width: 40px;
-    z-index: 2;
 }
 
 .span-fullPrice {

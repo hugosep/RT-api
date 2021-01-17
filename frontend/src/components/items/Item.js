@@ -47,9 +47,9 @@ export default class Item extends Component {
                             <span className="span-tarjeta">Tarjeta Ripley o check</span>
                             <span className="span-ripleyOffer">{formattedOfferPrice}</span>
                         </li>
-                        <li className="detail-descuento detail">
-                            <span className="span-descuento">Descuento</span>
-                            <span className="span-discount">-{discountPercentage}%</span>
+                        <li className="detail-sale detail">
+                            <span className="span-sale">Descuento</span>
+                            <span >-{discountPercentage}%</span>
                         </li>
                         <li className="detail-puntos detail">
                             <span className="span-acumulas">Acumulas</span>
