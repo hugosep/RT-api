@@ -13,3 +13,6 @@
 ## Alternative:
 
 Build with: **npm build**
+
+## Test:
+* Not unit test.
